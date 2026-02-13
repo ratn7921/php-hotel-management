@@ -1,4 +1,4 @@
-# PHP Hotel Management (hbwebsite)
+# PHP Hotel Management 
 
 Lightweight hotel booking system built with PHP, MySQL and minimal front-end. Includes an admin panel, Paytm payment integration, optional SendGrid email support, and PDF receipt generation via mPDF.
 
